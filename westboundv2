@@ -1,6 +1,6 @@
 game:GetService("StarterGui"):SetCore("SendNotification",{
     Title = "this admin made by";
-    Text = "!LUCIFER#9773";
+    Text = "seabest3";
     Duration = 10;
 })
 
